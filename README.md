@@ -1,9 +1,9 @@
 # one-page-website-html-css-project-for-practice
-## Watch The Complete Tutorial : https://youtu.be/ZFQkb26UD1Y
+## Visit the site : 
 
-This project is for html &amp; css practice. We made this for youtube tutorial purpose.
+This project is my portfolio.
 
 ### 👍 HAVE FUN 👍
-Thanks, Arfan
+Thanks, Abhijith K D
 
 ![Watch Now](./img/Design.jpg)
