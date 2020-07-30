@@ -42,7 +42,7 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: crimson;
+	color: orangered;
 }
 
 .cta {
@@ -50,7 +50,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid crimson;
+	border: 2px solid orangered;
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: .1rem;
@@ -60,7 +60,7 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: crimson;
+	background-color: orangered;
 }
 .brand h1 {
 	font-size: 3rem;
@@ -68,7 +68,7 @@ p {
 	color: white;
 }
 .brand h1 span {
-	color: crimson;
+	color: orangered;
 }
 
 /* Header section */
@@ -140,7 +140,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: crimson;
+	color:orangered;
 }
 #header .hamburger {
 	height: 60px;
@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/home.JPG);
+	background-image: url(./img/macbook_touchbar-wallpaper-1920x1200.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -248,7 +248,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color:crimson;
+	background-color:orangered;
 	animation: text_reveal_box 1s ease;
 	animation-delay: .5s;
 }
@@ -291,7 +291,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(./img/img-1.png);
+	background-image: url(./img/macbook_touchbar-wallpaper-1920x1200.jpg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -433,7 +433,7 @@ p {
 	height: 100%;
 	width: 100%;
 	position: relative;
-	border: 10px solid white;
+	border: 2px double orangered;
 }
 #about .col-left .about-img::after {
 	content: '';
@@ -442,7 +442,7 @@ p {
 	top: 19px;
 	height: 98%;
 	width: 98%;
-	border: 7px solid crimson;
+	border: 7px solid orangered;     
 	z-index: -1;
 }
 /* End About Section */
@@ -558,7 +558,7 @@ p {
 }
 @keyframes text_reveal_name {
 	100% {
-		color: crimson;
+		color: orangered;
 		font-weight: 500;
 	}
 }
@@ -622,7 +622,7 @@ p {
 		top: 34px;
 		height: 98%;
 		width: 98%;
-		border: 10px solid crimson;
+		border: 10px solid orangered;
 	}
 	#about .col-right {
 		text-align: left;
